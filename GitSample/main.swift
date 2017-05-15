@@ -17,11 +17,13 @@ func showEncounterMessage(monster: String, count : Int) {
     print("\(count)匹の\(monster)が現れた！");
 }
 
+func hogehoge(foo : String)
+{
+    print("hogee");
+}
+
 print("Hello, World!")
 print("こんにちは世界！！！")
-
-var hogehoge = "abc"
-print(hogehoge)
 
 favoritePlace(str1: "nagasaki")
 
