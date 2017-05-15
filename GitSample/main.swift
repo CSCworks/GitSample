@@ -9,4 +9,4 @@
 import Foundation
 
 print("Hello, World!")
-print("こんにちは世界！")
+print("こんにちは世界！！！")
