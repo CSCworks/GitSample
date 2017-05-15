@@ -9,3 +9,4 @@
 import Foundation
 
 print("こんにちは世界！！！")
+print("そしてさようなら！")
