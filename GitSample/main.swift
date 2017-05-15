@@ -13,6 +13,10 @@ func favoritePlace(str1:String) {
     print("I like " + str1 + ".")
 }
 
+func showEncounterMessage(monster: String, count : Int) {
+    print("\(count)匹の\(monster)が現れた！");
+}
+
 print("Hello, World!")
 print("こんにちは世界！！！")
 
@@ -21,4 +25,4 @@ print(hogehoge)
 
 favoritePlace(str1: "nagasaki")
 
-
+showEncounterMessage(monster: "スライム", count: 3)
