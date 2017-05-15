@@ -10,3 +10,8 @@ import Foundation
 
 print("Hello, World!")
 print("こんにちは世界！！！")
+
+func hogehoge(foo : String)
+{
+    println("hogee");
+}
