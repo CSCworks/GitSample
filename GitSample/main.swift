@@ -8,12 +8,17 @@
 
 import Foundation
 
+
+func favoritePlace(str1:String) {
+    print("I like " + str1 + ".")
+}
+
 print("Hello, World!")
 print("こんにちは世界！！！")
 
 var hogehoge = "abc"
 print(hogehoge)
 
-func favoritePlace(placeName : String) -> String {
-    return "I like " + placeName + "."
-}
+favoritePlace(str1: "nagasaki")
+
+
