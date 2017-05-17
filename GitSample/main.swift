@@ -13,3 +13,6 @@ print("こんにちは世界！！！")
 showDate();
 
 print("そしてさようなら！")
+
+let sum = add(a: 5,b: 11);
+print(sum);
