@@ -10,6 +10,6 @@ import Foundation
 
 print("こんにちは世界！！！")
 
-showDate()
+showDate();
 
 print("そしてさようなら！")
