@@ -9,4 +9,7 @@
 import Foundation
 
 print("こんにちは世界！！！")
+
+showDate();
+
 print("そしてさようなら！")
